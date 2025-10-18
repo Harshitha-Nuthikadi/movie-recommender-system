@@ -45,20 +45,22 @@ The dataset used for this project is from **TMDB Movie Metadata**:
 git clone https://github.com/your-username/movie-recommender.git
 cd movie-recommender
 
-**stall dependencies:**
+stall dependencies:
 
 pip install -r requirements.txt
 
 
-**Run the Streamlit app:**
+Run the Streamlit app:
 
 streamlit run app.py
 
 
 Select a movie from the dropdown to get 5 recommended movies with posters, release year, and rating.
 
+
 | Screenshot 1                        | Screenshot 2                        |
 | ----------------------------------- | ----------------------------------- |
-| ![output<img width="1920" height="1020" alt="Screenshot 2025-10-17 222423" src="https://github.com/user-attachments/assets/87e29a28-dfa3-46e1-b1b3-dc7656ace0fa" />
-1]() | ![output2](screenshots/output2.png) |
+| ![output1](<img width="1920" height="1020" alt="Screenshot 2025-10-17 222254" src="https://github.com/user-attachments/assets/8dd73089-b631-40b9-beb0-28bf1f4edbf1" />
+) | ![output2](![Uploading Screenshot 2025-10-17 222423.png…]) |
+
 
