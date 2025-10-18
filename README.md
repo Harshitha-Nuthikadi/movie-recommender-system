@@ -36,6 +36,11 @@ The dataset used for this project is from **TMDB Movie Metadata**:
 - Preprocessing is done to extract relevant features for content-based recommendations.
 
 ---
+## 🔹 Final Output
+
+<img width="1920" height="1020" alt="Screenshot 2025-10-17 222254" src="https://github.com/user-attachments/assets/2b429166-2d84-4c6e-ad16-418896dc7d1e" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-17 222423" src="https://github.com/user-attachments/assets/222cb8c0-daae-4ec1-8ed3-046d59df5b07" />
+
 
 ## 🔹 Installation & Usage
 
@@ -56,11 +61,3 @@ streamlit run app.py
 
 
 Select a movie from the dropdown to get 5 recommended movies with posters, release year, and rating.
-
-
-| Screenshot 1                        | Screenshot 2                        |
-| ----------------------------------- | ----------------------------------- |
-| ![output1](<img width="1920" height="1020" alt="Screenshot 2025-10-17 222254" src="https://github.com/user-attachments/assets/8dd73089-b631-40b9-beb0-28bf1f4edbf1" />
-) | ![output2](![Uploading Screenshot 2025-10-17 222423.png…]) |
-
-
