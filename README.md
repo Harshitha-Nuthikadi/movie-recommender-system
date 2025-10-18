@@ -45,46 +45,16 @@ The dataset used for this project is from **TMDB Movie Metadata**:
 git clone https://github.com/your-username/movie-recommender.git
 cd movie-recommender
 
-Install dependencies:
+**stall dependencies:**
 
 pip install -r requirements.txt
 
 
-Run the Streamlit app:
+**Run the Streamlit app:**
 
 streamlit run app.py
 
 
 Select a movie from the dropdown to get 5 recommended movies with posters, release year, and rating.
 
-🔹 Screenshots
-Example Output:
-Screenshot 1	Screenshot 2
 
-	
-
-Replace screenshots/output1.png with your actual images.
-
-🔹 Technologies Used
-
-Python 3
-
-Pandas
-
-Requests
-
-Streamlit
-
-TMDB API
-
-🔹 Notes
-
-You need a TMDB API Key to fetch movie posters.
-
-Missing posters are handled with placeholder images.
-
-Content-based filtering is efficient for recommending movies with rich metadata.
-
-🔹 Author
-
-Harshitha Nuthikadi
