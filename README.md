@@ -38,8 +38,9 @@ The dataset used for this project is from **TMDB Movie Metadata**:
 ---
 ## 🔹 Final Output
 
-<img width="1920" height="1020" alt="Screenshot 2025-10-17 222254" src="https://github.com/user-attachments/assets/2b429166-2d84-4c6e-ad16-418896dc7d1e" />
-<img width="1920" height="1020" alt="Screenshot 2025-10-17 222423" src="https://github.com/user-attachments/assets/222cb8c0-daae-4ec1-8ed3-046d59df5b07" />
+<img width="1570" height="823" alt="Screenshot 2025-10-17 204034" src="https://github.com/user-attachments/assets/0997470f-405a-44ca-8bca-3f160f18c69f" />
+
+<img width="1571" height="876" alt="Screenshot 2025-10-17 222208" src="https://github.com/user-attachments/assets/6fe7b7a7-6395-44cd-bb40-47f25e5cbb96" />
 
 
 ## 🔹 Installation & Usage
